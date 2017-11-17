@@ -8,7 +8,7 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "de"
+locale                   : "en"
 title                    : "A ranodm collection of braindumps and 'notes-to-self'"
 title_separator          : "-"
 name                     : "Sebastian Oswald"
