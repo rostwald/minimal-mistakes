@@ -17,8 +17,8 @@ To allow users to access the zvol, we need to transfer ownership of the volumes:
 
 [/etc/devfs.conf]
 perm	/dev/zvol/zroot/usr/home/<user>/vbox			0770
-own		/dev/zvol/zroot/usr/home/<user>/vbox			<user>:<user>
-own		/dev/zvol/zroot/usr/home/<user>/vbox/<volname>	<user>:<user>
+own	/dev/zvol/zroot/usr/home/<user>/vbox			<user>:<user>
+own	/dev/zvol/zroot/usr/home/<user>/vbox/<volname>		<user>:<user>
 
 
 [/etc/devfs.rules]
