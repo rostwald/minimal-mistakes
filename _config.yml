@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en"
-title                    : "A ranodm collection of braindumps and 'notes-to-self'"
+title                    : "A random collection of braindumps and 'notes-to-self'"
 title_separator          : "-"
 name                     : "Sebastian Oswald"
 description              : "A collection of random braindumps and 'notes-to-self'"
