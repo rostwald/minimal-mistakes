@@ -11,6 +11,7 @@ This is not very elegant or safe, as it just sends raw text to port 9100 and tim
 It may be "interesting" to try what can be done with/to those printers when sending malformed postscript...
 
 
-_Thanks,_
+_Thanks_
 _sko_
+
 ----
