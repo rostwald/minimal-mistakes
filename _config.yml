@@ -70,9 +70,9 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : GPG-ID   # Person or Organization (defaults to Person)
-  name                   : 0x313F3181 # If the user or organization name differs from the site's name
-  links: https://pool.sks-keyservers.net/pks/lookup?op=index&search=0x14705e63313f3181  # An array of links to social media profiles
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
 
 # Analytics
 analytics:
