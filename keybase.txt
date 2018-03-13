@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/rostwald
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rostwald.github.io
+  * I am rostwald (https://keybase.io/rostwald) on keybase.
+  * I have a public key with fingerprint 4B5B A717 4CCA BEF2 412B  0DEF 1470 5E63 313F 3181
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e307a72529bc0a366b86640bb72cff30fa093a2d4b86ff87e4faa69928fc4bcb0a",
+      "fingerprint": "4b5ba7174ccabef2412b0def14705e63313f3181",
+      "host": "keybase.io",
+      "key_id": "14705e63313f3181",
+      "kid": "0101e307a72529bc0a366b86640bb72cff30fa093a2d4b86ff87e4faa69928fc4bcb0a",
+      "uid": "2f2987e3391fa1cd1e30a9ef66643519",
+      "username": "rostwald"
+    },
+    "service": {
+      "hostname": "rostwald.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1520952834,
+  "expire_in": 157680000,
+  "prev": "bf15214beb29a7fe7160d29927719f02f1781ca4e524479f6dcbe40a591f121a",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkltIVEEYx3fTtDRLrYSCLE8XIcSdOdc9YhcpEyPqpcBKW2bOmdk9te7Zzjlq
+YlZ0oYKkQktCa+nGRlJRPRSCUCmkXR4kJCwkBSuC6iVSLMrmWL5Ej83LMN/8/7/5
+fx9zKi3BM83rW2AWmsKm5d6nH7BnW/xdah2HTb2WK6jjdpGJjYR1YjuBXYbOFXAA
+AkgEoCCFl3gVawAJsoz9siwCjBVeo1QAFAFVQLwusjqlfoWIFCFZVXk/1USsYYC4
+PI4akSCxopYRcRhWxBJGClRETUOYUF6EPAY6oVBUgERkQYACFaAfMmPItF0HC4eR
+TfINk9XYITAR7x/6/5y7agLHU15lAkFQIUVQ0102UgmVGVCQoOoKbWJFUCVhaotF
+rkFhnavP41i12tCIO1i3k78U+UHDCVXh311FLdMxNTPM7kOOE7ULXL9TG3UNNQQH
+/qAC2IjobJrMUU0s2zAjXAFkSs0xXDaUeKBKvF8Q8ziyJ2pYJGC4CkmR/YAt9x1S
+zZA4QJkWiphgXkUKJQqUgc6z/hUFqhTwFCp+qCGRSLwoKiqVdQ0TESCJDQHy0J2O
+TXZHTAZXWFAUZFDbCEaQU2URrj7luFdI9HineRZk5STeSMk/Pqr2tDdmlPkmv+DU
+Ke7/86RMT5+s3FycPF60N25v/N6eUJoBH/6wEt4kzX++ML6q+0hX45Vz268PZFeu
+vrQl9/FoZ0V77Qs6/1DvsmNFQy1bK0LxsmcNn4dnPMjsm71+UXF/w1jxkea1h61v
+2cvLo4WtKTvsQTP3YMP1rpF18cO5HSPxkua2J03z4j+LmtqyWs723m4tHbhZ2p09
+c3BDR8/GWelLgLh/3/1la15cTDaulNwKDdaC0d7zK9t3VownxsY+xobCwJdaGfxy
+9GVWLP3gnOS0M5e+rryXODfn3qLizLb+u586B5Z2Xr2j+8zYq/PlmdajhUKF73R9
+2cOG1LWbnRNp3ti8vinj46dPtna/PvD22oqkT5ffXzih7xn+BQ==
+=iuzh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rostwald
+
+==================================================================
+ 
